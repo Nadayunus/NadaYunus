@@ -25,7 +25,7 @@
 <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 <p style="font-size: 16px; line-height: 1.6;">
 Hey there! 👋 I'm <strong>Nada A</strong>,<br>
-A Flutter Developer passionate about building beautiful cross-platform applications with <strong>Flutter</strong> and modern web technologies.
+A Flutter Developer passionate about building beautiful cross-platform applications<strong>.
 </p>
 🚀 What I Do: <br>
 <p style="font-size: 15px; line-height: 1.8;"><em>
@@ -58,7 +58,7 @@ A Flutter Developer passionate about building beautiful cross-platform applicati
 
 <div align="center">
 
-### Mobile & Web Development
+### Mobile Development
 <table>
   <tr>
     <td align="center" width="96">
@@ -157,7 +157,7 @@ A Flutter Developer passionate about building beautiful cross-platform applicati
 📫 Let's Connect & Collaborate
 <div align="left">
 💬 Open for opportunities in:<br>
-Flutter Development • Mobile App Development • Web Development • UI/UX Design • Open Source Collaboration
+Flutter Development • Mobile App Development • UI/UX Design • Open Source Collaboration
 <br>
 🌟 Currently:<br>
 🔭 Working on Cross-Platform Mobile Applications<br>
