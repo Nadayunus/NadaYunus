@@ -150,20 +150,6 @@ A Flutter Developer passionate about building beautiful cross-platform applicati
 
 <br>
 
-📊 GitHub Statistics
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" />
-</div>
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true" />
-</div>
-<br>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 
 
 
