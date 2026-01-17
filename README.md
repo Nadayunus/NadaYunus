@@ -5,6 +5,7 @@
   <a href="https://www.linkedin.com/in/nada-yunus-eng/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:nadayunuseng@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
 </div>
 <br>
 <div align="center">
@@ -94,6 +95,10 @@ A Flutter Developer passionate about building beautiful cross-platform applicati
       <img src="https://skillicons.dev/icons?i=supabase" width="65" height="65" alt="Supabase" />
       <br><b>Supabase</b>
     </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST API" />
+      <br><b>REST API</b>
+    </td>
   </tr>
 </table>
 
@@ -166,7 +171,7 @@ A Flutter Developer passionate about building beautiful cross-platform applicati
 📫 Let's Connect & Collaborate
 <div align="left">
 💬 Open for opportunities in:<br>
-Flutter Development • Mobile App Development • UI/UX Design • Open Source Collaboration
+Flutter Development • Mobile App Development • Web Development • UI/UX Design • Open Source Collaboration
 <br>
 🌟 Currently:<br>
 🔭 Working on Cross-Platform Mobile Applications<br>
