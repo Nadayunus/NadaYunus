@@ -58,7 +58,7 @@ A Flutter Developer passionate about building beautiful cross-platform applicati
 
 <div align="center">
 
-### Mobile Development
+### Mobile and Web Development
 <table>
   <tr>
     <td align="center" width="96">
